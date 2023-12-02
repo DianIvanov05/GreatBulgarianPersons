@@ -45,6 +45,7 @@
 #StJohnOfRilaImage {
     margin-left: 60px;
     width: 365px;
+    border-radius: 5%;
     margin-top: 20px;
     height: 420px;
     border: 1px solid black;
@@ -61,6 +62,7 @@
     border: 1px solid #f7f381;
     box-shadow: 0 0 10px 2px #333333;
     margin-left: auto;
+    border-radius: 5%;
 }
 
 

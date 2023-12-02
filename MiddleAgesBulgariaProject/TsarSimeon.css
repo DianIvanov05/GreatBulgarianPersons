@@ -42,6 +42,7 @@
 }
 
 #SimeonImage {
+    border-radius: 5%;
     margin-left: 60px;
     width: 365px;
     margin-top: 20px;
@@ -50,6 +51,7 @@
 }
 
 #SimeonText {
+    border-radius: 5%;
     float: right;
     margin-right: 60px;
     font-size: 21px;

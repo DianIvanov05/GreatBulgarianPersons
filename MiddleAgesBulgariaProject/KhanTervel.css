@@ -2,13 +2,7 @@
     background-color: #E8C16E;
     margin-top: 0;
     width: 100%;
-}
-@media screen and (min-width:1px) and (max-width:1980px) {
-   
-}
-
-@media screen and (min-width:1080px) {
-   
+    
 }
 
 .topMenu ul {
@@ -48,16 +42,24 @@
     font-family: 'Comic Sans MS';
     transform: translate(-50%, -50%);
 }
+
+#Info{
+    display:inline-flex;
+    justify-content:space-evenly;
+
+}
 #TervelImage {
-    margin-left: 80px;
+    margin-left: 5%;
     width: 260px;
     margin-top: 20px;
     border: 1px solid black;
     box-shadow: 0 0 10px 2px #333333;
+    border-radius:5%;
 }
+
 #TervelText {
     float: right;
-    margin-right: 80px;
+    margin-right:8%;
     font-size: 21px;
     background-color: beige;
     padding: 5px;
@@ -65,7 +67,7 @@
     border: 1px solid #f7f381;
     box-shadow: 0 0 10px 2px #333333;
     margin-left: auto;
-    
+    border-radius: 5%;
 }
 
 footer {

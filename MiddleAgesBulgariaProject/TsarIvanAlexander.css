@@ -48,6 +48,7 @@
     margin-top: 20px;
     border: 1px solid black;
     box-shadow: 0 0 10px 2px #333333;
+    border-radius: 5%;
 }
 
 #IvanAlexanderText {
@@ -60,6 +61,7 @@
     border: 1px solid #f7f381;
     box-shadow: 0 0 10px 2px #333333;
     margin-left: auto;
+    border-radius: 5%;
 }
 
 footer {

@@ -44,6 +44,7 @@
 
 #IvanAsenImage {
     margin-left: 60px;
+    border-radius: 5%;
     width: 365px;
     margin-top: 20px;
     border: 1px solid black;
@@ -51,6 +52,7 @@
 }
 
 #IvanAsenText {
+    border-radius: 5%;
     float: right;
     margin-right: 60px;
     font-size: 21px;

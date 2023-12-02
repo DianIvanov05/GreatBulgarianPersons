@@ -45,12 +45,13 @@
     flex-direction:row;
     justify-content:space-around;
 }
-    #FirstImages img {       
-        margin-top: 50px;       
+    #FirstImages img {
+        margin-top: 50px;
         width: 140px;
         height: 210px;
         border: 1px solid black;
         box-shadow: 0 0 10px 2px #333333;
+        border-radius: 3%;
     }
 #SecondImages {
     display: flex;
@@ -64,6 +65,7 @@
         height: 210px;
         box-shadow: 0 0 10px 2px #333333;
         border: 1px solid black;
+        border-radius: 3%;
     }
     #ListHeader{
         text-align:center;
