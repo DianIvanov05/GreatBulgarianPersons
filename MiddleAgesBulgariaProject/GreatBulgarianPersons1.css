@@ -43,11 +43,10 @@
 #FirstImages {
     display:flex;
     flex-direction:row;
+    justify-content:space-around;
 }
-    #FirstImages img {
-        margin-left: 50px;
-        margin-top: 50px;
-        margin-right: 60px;
+    #FirstImages img {       
+        margin-top: 50px;       
         width: 140px;
         height: 210px;
         border: 1px solid black;
@@ -56,12 +55,11 @@
 #SecondImages {
     display: flex;
     flex-direction: row;
+    justify-content:space-around;
 }
 
     #SecondImages img {
-        margin-left: 50px;
         margin-top: 50px;
-        margin-right: 60px;
         width: 140px;
         height: 210px;
         box-shadow: 0 0 10px 2px #333333;
