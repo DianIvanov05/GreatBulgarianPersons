@@ -1,7 +1,4 @@
-﻿body
-{
-    margin: 0;
-}
+﻿
 body {
     background-color: #E8C16E;
     margin-top: 0
@@ -78,7 +75,7 @@ body {
 #AboutUsContainer img {
     margin: 0px 110px;
     width: 30%;
-    height: 20%;
+    height: 60%;
     float: left;
 }
 
@@ -255,7 +252,7 @@ body {
 }
 .PersonText {
     float: right;
-    margin-right: 90px;
+    margin-right: 77px;
     font-size: 21px;
     background-color: beige;
     padding: 5px;
